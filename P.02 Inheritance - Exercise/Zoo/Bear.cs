@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Zoo
 {
-    internal class Bear
+    public class Bear
     {
     }
 }
