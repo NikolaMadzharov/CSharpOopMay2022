@@ -2,7 +2,7 @@
 
 namespace Players_and_Monsters
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
