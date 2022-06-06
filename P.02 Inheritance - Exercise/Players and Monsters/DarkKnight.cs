@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Players_and_Monsters
 {
-    internal class DarkKnight
+    public class DarkKnight
     {
     }
 }
