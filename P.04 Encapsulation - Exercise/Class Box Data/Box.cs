@@ -33,8 +33,6 @@ namespace ClassBoxData
             }
         }
 
-      
-
         public double Width
         {
             get => this.width;
