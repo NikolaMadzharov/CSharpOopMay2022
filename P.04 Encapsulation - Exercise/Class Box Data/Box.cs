@@ -16,8 +16,6 @@ namespace ClassBoxData
             Height = height;
         }
 
-        
-
         public double Length
         {
             get=>this.length;
