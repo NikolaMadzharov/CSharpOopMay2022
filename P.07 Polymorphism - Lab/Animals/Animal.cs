@@ -14,7 +14,6 @@ namespace Animals
             this.name = name;
             this.favouriteFood = favouriteFood;
         }
-
         public virtual string ExplainSelf()
         {
             return $"I am {name} and my fovourite food is {favouriteFood}";
