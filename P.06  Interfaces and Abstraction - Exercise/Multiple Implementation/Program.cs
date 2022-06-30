@@ -15,7 +15,6 @@ namespace PersonInfo
             Console.WriteLine(identifiable.Id);
             Console.WriteLine(birthable.Birthdate);
 
-
         }
     }
 }
