@@ -1,4 +1,4 @@
-using NUnit.Framework;
+8using NUnit.Framework;
 
 namespace Skeleton.Tests
 {
@@ -12,7 +12,6 @@ namespace Skeleton.Tests
             Dummy dummy =  new Dummy(10,10);
 
             axe.Attack(dummy);
-
             Assert.That(axe.DurabilityPoints, Is.EqualTo(9));
         }
         [Test]
