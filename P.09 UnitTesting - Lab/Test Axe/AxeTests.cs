@@ -1,4 +1,4 @@
-8using NUnit.Framework;
+using NUnit.Framework;
 
 namespace Skeleton.Tests
 {
