@@ -9,11 +9,11 @@ namespace Vehicles
         public double fuelQuantity { get; set; }
 
         public  double fuelConsumptionPerKm { get; set; }
-        public void Drive(double km);
+        public void Drive(double kms);
 
-        public void Refuel(double km);
+        public void Refuel(double kms);
 
-        public bool IsItEnoughFuel(double km);
+        public bool IsItEnoughFuel(double kms);
 
     }
 }
