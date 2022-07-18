@@ -12,7 +12,7 @@ namespace Gym.Models.Athletes
         private string motivation;
         private int numberofmedal;
 
-        protected Athlete(string fullName, string motivation, int numberOfMedals, int stamina)
+        private Athlete(string fullName, string motivation, int numberOfMedals, int stamina)
         {
             FullName = fullName;
             Motivation = motivation;
