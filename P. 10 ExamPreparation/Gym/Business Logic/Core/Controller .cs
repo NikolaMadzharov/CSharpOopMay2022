@@ -46,7 +46,6 @@ namespace Gym.Core
             return string.Format(OutputMessages.SuccessfullyAdded, gymType);
 
         }
-
         public string AddEquipment(string equipmentType)
         {
             IEquipment typEquipment = null;
