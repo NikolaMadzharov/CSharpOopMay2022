@@ -12,7 +12,6 @@ namespace WarCroft.Entities.Items
 		{
 			this.Weight = weight;
 		}
-
 		public int Weight { get; }
 
 		public virtual void AffectCharacter(Character character)
