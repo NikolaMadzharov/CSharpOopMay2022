@@ -21,7 +21,6 @@ namespace WarCroft.Entities.Inventory
             {
                
                capacity=value;
-              
             }
         }
         public int Load =>Items.Select(x=>x.Weight).Sum();
