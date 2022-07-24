@@ -9,6 +9,7 @@ namespace Formula1
     {
         public Ferrari(string model, int horsepower, double engineDisplacement) : base(model, horsepower, engineDisplacement)
         {
+
         }
     }
 }
