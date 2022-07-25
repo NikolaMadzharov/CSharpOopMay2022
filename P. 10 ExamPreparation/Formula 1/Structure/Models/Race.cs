@@ -43,7 +43,7 @@ namespace Formula1
             } 
         }
 
-        public bool TookPlace { get;  set; } = false;
+        public bool TookPlace { get; private set; } = false;
 
         public ICollection<IPilot> Pilots => pilots;
 
