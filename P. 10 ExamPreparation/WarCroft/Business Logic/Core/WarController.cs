@@ -176,7 +176,7 @@ namespace WarCroft.Core
 
             healer.Heal(receiver);
 
-            return
+            return 
                 $"{healer.Name} heals {receiver.Name} for {healer.AbilityPoints}! {receiver.Name} has {receiver.Health} health now!";
         }
 	}
