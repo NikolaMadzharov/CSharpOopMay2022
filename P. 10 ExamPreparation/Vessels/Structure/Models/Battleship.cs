@@ -28,7 +28,7 @@
 
         public override void RepairVessel()
         {
-            if (ArmorThickness<300)
+            if (ArmorThickness<=300)
             {
                 ArmorThickness = 300;
             }
