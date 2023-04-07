@@ -1,4 +1,9 @@
-# CSharpOopMay2022
+![C# OOP Advanced](https://user-images.githubusercontent.com/89745007/230681534-4975c173-ef8f-4806-a7e3-6364fddaf799.png)
+
+
+
+# CSharpOOPMay2022
+This repository contains my solutions for the SoftUni course [C# OOP ](https://softuni.bg/trainings/3958/csharp-oop-february-2023)
 
 
 ## P.01 Inheritance - Lab
