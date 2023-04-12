@@ -28,7 +28,7 @@ This repository contains my solutions for the SoftUni course [C# OOP ](https://s
 👈🏻[P.07 Polymorphism - Lab](https://github.com/NikolaMadzharov/CSharpOopMay2022/tree/main/P.07%20Polymorphism%20-%20Lab)
 
 ## P.08 Polymorphism - Exercise
-👈🏻[PP.08 Polymorphism - Exercise](https://github.com/NikolaMadzharov/CSharpOopMay2022/tree/main/P.08%20Polymorphism%20-%20Exercise)
+👈🏻[P.08 Polymorphism - Exercise](https://github.com/NikolaMadzharov/CSharpOopMay2022/tree/main/P.08%20Polymorphism%20-%20Exercise)
 
 ## P.09 UnitTesting - Lab
 👈🏻[P.09 UnitTesting - Lab](https://github.com/NikolaMadzharov/CSharpOopMay2022/tree/main/P.09%20UnitTesting%20-%20Lab)
